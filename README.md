@@ -2,7 +2,7 @@
 
 ### Front End Web Developer
 
-I am a resourceful front end developer with training in HTML, CSS, Javascript and React. My background in government administration and my interest in understanding people's needs and motivations has led me to front end development, with a focus on making web applications functional and usable for all. I am a bootcamp grad from [Juno College](junocollege.com) :heart_eyes_cat:.
+I am a resourceful front end developer with training in HTML5, CSS3, Javascript (ES6) and React. My background in government administration and my interest in understanding people's needs and motivations has led me to front end development, with a focus on making web applications functional and usable for all. I am a bootcamp grad from [Juno College](junocollege.com) :heart_eyes_cat:.
 
 :airplane:&nbsp;&nbsp; Visit my portfolio website at https://www.melpeto.com/ <br />
 :information_desk_person:&nbsp;&nbsp; Connect with me on Linkedin https://www.linkedin.com/in/melanie-peto/ <br />

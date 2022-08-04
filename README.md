@@ -10,7 +10,7 @@ I am a resourceful front end developer with training in HTML5, CSS3, Javascript 
 :information_desk_person:&nbsp;&nbsp; Connect with me on Linkedin https://www.linkedin.com/in/melanie-peto/ <br />
 :speech_balloon:&nbsp;&nbsp; Want to chat? Please feel free to schedule a time with me on [Calendly](https://calendly.com/mel-peto).
 
-### My Skills, Libraries, Frameworks & Tools
+### :toolbox: Languages | Tools | Frameworks :hammer: 
 
 <section align="left">
 
